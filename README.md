@@ -1,11 +1,8 @@
 # APPSCHOOL3-iOS.github.io
 앱스쿨 iOS 2기 프로젝트1 markdown 이력서 자료
-
-
 <h1> iOS개발자 장원영 이력서</h1>
 
 <h5>안녕하세요. 코딩 전사 장원영입니다.</h5>
-
 
 <h3>Contact</h3> 
 <ul>
