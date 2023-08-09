@@ -1,6 +1,6 @@
 # 앱스쿨 iOS 2기 프로젝트1 markdown 이력서 자료
 
-GitHub Pages URL: APPSCHOOL3-iOS.github.io
+GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 
 이력서 예시는 다음과 같습니다.
 
