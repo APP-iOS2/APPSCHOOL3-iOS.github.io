@@ -51,7 +51,7 @@ GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 <h5>A사 마케팅 근무</h5>
 <h5>B사 서비스 운영</h5>
 
-<img src="https://drive.google.com/file/d/1kxe0TDdefYJIp0OxZA7xvfxK_HKz9sF6/view?usp=sharing">
+<img width="80%" src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/issues/1#issue-1842881775">
 
 <h2>Project</h2> 
 <ul>
