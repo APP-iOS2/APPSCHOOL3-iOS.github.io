@@ -45,10 +45,7 @@
 <h5>A사 마케팅 근무</h5>
 <h5>B사 서비스 운영</h5>
 
-  ![수료증](https://github.com/APPSCHOOL3-iOS/markdown-sample/assets/91583287/2985999d-1fc3-4e4b-8e3d-c79e267b1244)
-
-
----
+<img src="https://github.com/APPSCHOOL3-iOS/markdown-sample/assets/91583287/2985999d-1fc3-4e4b-8e3d-c79e267b1244">
 
 <h2>Project</h2> 
 <ul>
