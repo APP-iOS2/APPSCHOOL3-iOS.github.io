@@ -2,8 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Jinios%20🍊&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     
-   #
-   ## 👋🏻 Introduce
+## 👋🏻 Introduce
    - 주니어 iOS 개발자 윤진영입니다.
    - Tech!t LikeLion iOS App School에서 앱을 개발한 경험이 있습니다.
 ##  🛠️ Skill & Tools 
