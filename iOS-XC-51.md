@@ -19,4 +19,4 @@ MBTIgoonghab (2023.8 ~ ) : 연애와 프로젝트 카테고리별로 MBTI궁합�
 
 ## 🔍 Where to find me 
 
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cuke709@gmail.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white">
