@@ -1,6 +1,7 @@
 # Hello, world!
 
-![style_64672c90ce2d8-1124x1400-modified.png](Hello,%20world!%20832fb49fca074e69a0a751076ea65e11/style_64672c90ce2d8-1124x1400-modified.png)
+
+<img src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/51072429/7590f8ca-cf7b-4ea6-83e4-5d170e5da41b" width="200" height="200"/>
 
 ### ***iOS 개발자 노유리 입니다. @@@하고 $$하는 ****한 ###를 추구합니다.***
 
