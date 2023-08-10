@@ -4,7 +4,7 @@
 
 ---
 
-<img src="./ProfilePhoto.jpeg" width= "250" height= "300">
+<img src="https://github.com/Haesus/MyResume/blob/main/ProfilePhoto.jpeg?raw=true" width= "250" height= "300">
 
 ### Contact
 이름 : 윤해수 <br>
