@@ -53,7 +53,7 @@
 
 <h2>Skill</h2> 
 <ul>
-  <li>**SwiftUI**</li>
+  <li>SwiftUI</li>
   <p>화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
  </p>
   <li>UIKit</li>
