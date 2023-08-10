@@ -6,7 +6,7 @@
 <h3>Contact</h3> 
 <ul>
   <li>
-    이름: 이승준
+    ** 이름: 이승준 **
   </li>
   <li>
     ✉️ 이메일 : rofxnaos@gmail.com
