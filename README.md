@@ -1,7 +1,8 @@
 # 앱스쿨 iOS 2기 프로젝트1 markdown 이력서 자료
 
 이력서 예시는 다음과 같습니다. [iOS-XC-00.md](./iOS-XC-00.md)
-웹브라우저와 앱에서 접근할 경우 다음의 URL를 사용하실 수 있습니다. [https://appschool3-ios.github.io/iOS-XC-00.html](./iOS-XC-00.md)
+웹브라우저와 앱에서 접근할 경우 다음의 URL를 사용하실 수 있습니다. [https://appschool3-ios.github.io/iOS-XC-00.html](https://appschool3-ios.github.io/iOS-XC-00.html)
+위와같이 md 확장자로 파일을 올리면 html 확장자로 끝나는 경로로 웹 접근이 가능합니다.
 
 이 웹이트에 개인별로 부여된 식별 Code에 따라 iOS-XC-(번호).md 파일을 만들어 이곳에 추가해주세요.
 웹브라우저와 앱에서 접근할 경우 필요한 URL은 위 예시를 참고해주세요.
