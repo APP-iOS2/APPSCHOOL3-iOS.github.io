@@ -4,7 +4,7 @@
 
 ### Contact.
 
-Email. dfstem**@naver.com**
+Email. **dfstem@naver.com**
 
 Phone. **010-9019-4890**
 
@@ -40,6 +40,7 @@ iOS Developer
 - SwiftUI를 활용하여 Native 앱으로 개발
 - firebase를 이용해 이커머스 앱 개발
 
+
 ## 프로젝트 2
 
 곧 만들 굉장한 앱
@@ -65,6 +66,6 @@ iOS Developer
 
 # Education.
 
-1. 05 - 2023. 10 멋쟁이 사자처럼 테킷 앱스쿨: iOS 2기
+2023.05 - 2023.10 멋쟁이 사자처럼 테킷 앱스쿨: iOS 2기
 
-2017. 03 - 2023. 02 인덕대학교 메카트로닉스공학과
+2017.03 - 2023.02 인덕대학교 메카트로닉스공학과
