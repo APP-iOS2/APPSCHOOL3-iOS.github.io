@@ -9,7 +9,9 @@
     이름: 이승준
   </li>
   <li>
-    이메일 : rofxnaos@gmail.com<br>
+    이메일 : rofxnaos@gmail.com
+  </li>
+  <li>
     번호 : 010-0000-0000
   </li>
 </ul>
