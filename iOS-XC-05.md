@@ -9,6 +9,8 @@
 - E-mail: sikim4991@gmail.com
 - 주소: 대전광역시 XX구 XX동
 - 포트폴리오: https://www.github.com/sikim4991
+
+
 ---
 ## 학력
 > 2013.03 ~ 2020.02
