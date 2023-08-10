@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&text=Hello%20Every%One!&desc=Hello%20capsule%20render&fontSize=60&descAlignY=70&animation=fadeIn)
 
-# 올라운더를 꿈꾸는 기획자
+# 올라운더를 꿈꾸는 기획자 박믿음입니다.
 
 메이킹을 좋아하여 디자인, 개발 모두 다 가능한 올라운더가 되고 싶어 노력하고 있습니다.
 
