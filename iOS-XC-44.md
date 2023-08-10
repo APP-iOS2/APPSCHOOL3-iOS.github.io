@@ -10,7 +10,7 @@
 
 Email. **dutjddms@naver.com**
 
-Phone. **010-5112-2154**
+Phone. **010-0000-0000**
 
 ### Channel.
 
