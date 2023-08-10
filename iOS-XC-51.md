@@ -1,10 +1,11 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&text=Jinios%20🍊&animation=&fontColor=ffffff&fontSize=70" />
-    </div>
-    
+</div>
+
 ## 👋🏻 Introduce
-   - 주니어 iOS 개발자 윤진영입니다.
-   - Tech!t LikeLion iOS App School에서 앱을 개발한 경험이 있습니다.
+- 주니어 iOS 개발자 윤진영입니다.
+- Tech!t LikeLion iOS App School에서 앱을 개발한 경험이 있습니다.
+
 ##  🛠️ Skill & Tools 
 <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Swift-EE4C2C?style=flat&logo=logoColor=white">
 ##  👩🏻‍💻 The project 
@@ -17,5 +18,5 @@
 - Tech!t LikeLion iOS App School 2기(2023.5 ~ 2023.10) 
 
 ## 🔍 Where to find me 
-        
+
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="><a href=mailto:cuke709@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cuke709@gamil.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
