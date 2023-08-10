@@ -2,91 +2,33 @@
 
 GitHub Pages URL: [APPSCHOOL3-iOS.github.io](https://APPSCHOOL3-iOS.github.io)
 
-이력서 예시는 다음과 같습니다.
+이력서 예시는 다음과 같습니다. [iOS-XC-00.md](./iOS-XC-00.md)
+웹브라우저와 앱에서 접근할 경우 다음의 URL를 사용하실 수 있습니다. [APPSCHOOL3-iOS.github.io/iOS-XC-00.md](https://APPSCHOOL3-iOS.github.io/iOS-XC-00.md)
 
----
+이 웹이트에 개인별로 부여된 식별 Code에 따라 iOS-XC-(번호).md 파일을 만들어 이곳에 추가해주세요.
+웹브라우저와 앱에서 접근할 경우 필요한 URL은 위 예시를 참고해주세요.
 
-<h1> iOS개발자 장원영 이력서</h1>
+## 프로젝트 안내
 
-<h5>안녕하세요. 코딩 전사 장원영입니다.</h5>
+project01-team01 부터 project01-team12까지 회고조별로 부여되는 저장소를 활용해주세요
+- https://github.com/APPSCHOOL3-iOS/project01-team01
+- https://github.com/APPSCHOOL3-iOS/project01-team02
+- https://github.com/APPSCHOOL3-iOS/project01-team03
+- https://github.com/APPSCHOOL3-iOS/project01-team04
+- https://github.com/APPSCHOOL3-iOS/project01-team05
+- https://github.com/APPSCHOOL3-iOS/project01-team06
+- https://github.com/APPSCHOOL3-iOS/project01-team07
+- https://github.com/APPSCHOOL3-iOS/project01-team08
+- https://github.com/APPSCHOOL3-iOS/project01-team09
+- https://github.com/APPSCHOOL3-iOS/project01-team10
+- https://github.com/APPSCHOOL3-iOS/project01-team11
+- https://github.com/APPSCHOOL3-iOS/project01-team12
 
-<h3>Contact</h3> 
-<ul>
-  <li>
-    이름: 장원영
-  </li>
-  <li>
-    이메일 : wonyoungzzang123123@example.com
-  </li>
-</ul>
+프로젝트 저장소는 2023년 8월 10일 오후 6시정각부터 아카이브 처리되어 잠길 예정입니다.
+아카이브 처리 이후에는 신규 코드의 commit, push, merge가 이루어지지 않습니다.
 
-
-<h3>Channel</h3> 
-<ul>
-  <li>깃허브 : github.com/wonyoungzzang123123
-  </li>
-  <li>블로그 : wonyoungzzang123123.github.io
-  </li>
-</ul>
-
----
-
-<h3>Introduce</h3>
-<p>
-  다년간의 마케터 근무한 경험을 바탕으로 남녀노소를 불문하고 의사소통하는것을 어려워 하지 않으며, 여러 의견을 수렴하여 모두가 수긍할 수 있는 방향을 제시할 수 있습니다. 개발자가 편한 개발이 아닌 사용자를 위한 개발을 할 자신이 있습니다. 
-</p>
-
----
-
-<h3>Education &  Career</h3> 
-
-<h5>멋쟁이 사자처럼  iOS 앱개발 과정 수료</h5>
-<p>2023.05 ~ 2023.10</p>
-<p>swift문법 및 SWIFTUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다. </p>
-
-<h5>좋은 대학교 국제관계 졸업</h5>
-<h5>일본 ABC대학교 교환학생</h5>
-<h5>NYU advanced language course 수료</h5>
-<h5>뉴욕 ‘blahblah’ 패션 브랜드 패션 마케팅 인턴</h5>
-<h5>A사 마케팅 근무</h5>
-<h5>B사 서비스 운영</h5>
-
-<img width="80%" src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/114051724/6be438a8-30fc-493f-a099-d5fb796a9c49">
-
-<h2>Project</h2> 
-<ul>
-  <li>
-    Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
-  </li>
-  <li>
-    amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
-  </li>
-</ul>
-
-
-<h2>Skill</h2> 
-<ul>
-  <li>SwiftUI</li>
-  <p>화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
- </p>
-  <li>UIKit</li>
-  <p>스토리보드, 코드를 통해 개발 가능합니다.</p>
-  <li>Swift</li>
-  <p>Swift의 기본 문법을 이해하고 사용합니다</p>
-  <li>MVC/MVVM</li>
-  <p>MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.</p>
-  <li>Framework And Library</li>
-  <p>다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다.<br>Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.</p>
-  <li>Git&Github</li>
-  <p>깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.</p>
-  <li>notion&lack</li>
-  <p>협업 툴을 활용하여 의사소통 가능합니다.</p>
-</ul>
-
-
-<h2>기타 수상 내역</h2> 
-<ul>
-  <li>
-    멋쟁이사자 해커톤 대상 (2023)
-  </li>
-</ul>
+다음의 지정된 요구사항에 맞추어 프로젝트1을 진행해주세요. 
+- 현재 이곳 GitHub 저장소에 안내된 규칙에 따라 markdown 이력서 내용 commit, push, merge
+- 해당 저장소에 올린 내용을 GitHub Pages를 통해 웹브라우저로 확인
+- 회고조원들의 이름이 나오고, 이름마다 있는 “웹으로보기”를 선택하면 SafariViewController 또는 WKWebView로 위 웹페이지 이력서 확인하는 앱 개발
+- 추가로 이름마다 있는 “앱으로 보기”를 선택하면 위 저장소의 내용에 URLSession으로 접근해 markdown을 받아오거나 앱에 번들로 markdown 이력서를 담아 SwiftUI의 Text 기능으로 Native한 이력서 보여주기 기능도 개발
