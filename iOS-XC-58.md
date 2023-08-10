@@ -9,13 +9,13 @@ iOS 개발자 이재승 이력서
 -------
 
 *   이름: 이재승
-*   이메일 : seoung128@gmail.com
+*   이메일 : [seoung128@gmail.com](seoung128@gmail.com)
 
 ⚡️ Channel
 -------
 
-*   깃허브 : https://github.com/JASONLEE-hub
-*   링크드인 : https://www.linkedin.com/in/jaeseounglee128/
+*   깃허브 : [github.com/JASONLEE-hub](https://github.com/JASONLEE-hub)
+*   링크드인 : [www.linkedin.com/in/jaeseounglee128/](https://www.linkedin.com/in/jaeseounglee128/)
 
 🤗 Introduce
 -------
@@ -33,10 +33,10 @@ iOS 개발자 이재승 이력서
 🧑‍💻 Project
 -------
 
-*   OOApp (2023): iOS 앱 개발 예정. 사용 언어/기술: SwiftUI, Firebase
-*   iOS 개인 프로젝트 : https://github.com/JASONLEE-hub/iOS\_Practice
+*   OOApp (2023) : iOS 앱 개발 예정. 사용 언어/기술: SwiftUI, Firebase
+*   iOS 개인 프로젝트 : [github.com/JASONLEE-hub/iOS\_Practice](https://github.com/JASONLEE-hub/iOS\_Practice)
 
-*   잇다 (2019) : 안드로이드 앱 개발. 사용 언어/기술: C#, UnityEngine : https://github.com/JASONLEE-hub/ITDA
+*   잇다 (2019) : 안드로이드 앱 개발. 사용 언어/기술: C#, UnityEngine : [github.com/JASONLEE-hub/ITDA](https://github.com/JASONLEE-hub/ITDA)
 
 🍏 Skill
 -----
@@ -55,7 +55,7 @@ iOS 개발자 이재승 이력서
 
 *   **Language** - 일본어 - JLPT 1급 보유, 현재까지도 원활하게 일본인 지인들과 소통중입니다.
 
-*   **Figma&Photoshop&illustrator** - 디자인학과 졸업, 디지털마케팅 광고소재 제작 경험, 디자인 툴을 활용한 경험이 있습니다. : https://url.kr/f7mowr
+*   **Figma&Photoshop&illustrator** - 디자인학과 졸업, 디지털마케팅 광고소재 제작 경험, 디자인 툴을 활용한 경험이 있습니다. : [포트폴리오 수정예정](https://url.kr/f7mowr)
 
 *   **Slack&Notion** - 협업 툴을 활용하여 의사소통 가능합니다.
 
