@@ -8,8 +8,9 @@
 
 ##  🛠️ Skill & Tools 
 <img src="https://img.shields.io/badge/xcode-147EFB?style=flat&logo=xcode&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/Swift-EE4C2C?style=flat&logo=logoColor=white">
+
 ##  👩🏻‍💻 The project 
-### MBTIgoonghab (2023.8 ~ ) : 연애와 프로젝트 카테고리별로 MBTI궁합을 알려주는 앱입니다.
+MBTIgoonghab (2023.8 ~ ) : 연애와 프로젝트 카테고리별로 MBTI궁합을 알려주는 앱입니다.
 - 사용 언어/기술: SwiftUI
 - 구현한 기능
 
@@ -18,4 +19,4 @@
 
 ## 🔍 Where to find me 
 
-<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="><a href=mailto:cuke709@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cuke709@gamil.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="><a href=mailto:cuke709@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cuke709@gmail.com"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
