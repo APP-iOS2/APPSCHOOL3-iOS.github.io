@@ -36,12 +36,10 @@
 <h2>Project</h2> 
 <ul>
   <li>
-    Fantastic App** (2022): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
+    추가 예정~~~~~~
   </li>
   <li>
-    amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
-  </li>
-</ul>
+
 
 
 <h2>Skill</h2> 
