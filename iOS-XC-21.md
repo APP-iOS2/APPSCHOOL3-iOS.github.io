@@ -1,11 +1,11 @@
 # 마크다운 이력서
 
-## 개인 정보
-<img src="https://avatars.githubusercontent.com/u/115935304?s=96&v=4"
+# 프로필
+<imgsrc="https://avatars.githubusercontent.com/u/115935304?s=96&v=4">
 
 ### 기본정보
 
-- Chinese | **[朴](https://ko.wiktionary.org/wiki/%E6%9C%B4)範洙**
+- Chinese | **朴範洙**
 - English | **Augustine Park**
 - Age | 27
 - Birth Day | 1996.07.23
@@ -14,7 +14,7 @@
 
 ## 자기소개
 
-주니어 iOS개발자를 꿈꾸고 있으며, 도중에 문제가 생기더라도 포기하지 않고 끈기있게 문제를 해결하려 합니다
+주니어 iOS개발자를 꿈꾸고 있는 박범수입니다, 도중에 문제가 생기더라도 포기하지 않고 끈기있게 문제를 해결하려 합니다
 
 최근에는 협업의 중요성을 깨닫고 동료들간의 의사소통을 더 잘 할수 있는 방법을 생각 중 입니다.
 
