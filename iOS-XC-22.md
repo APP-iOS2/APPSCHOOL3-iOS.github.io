@@ -4,7 +4,6 @@
 
 ### Contact.
 Email. **syss220211@gmail.com**
-Phone. **010-5492-5525**
 
 ### Channel.
 **Blog.** [https://sy-catbutler.tistory.com/](https://sy-catbutler.tistory.com/)
