@@ -52,8 +52,8 @@ GitHub : https://github.com/Haesus
 * SwiftUI
   + 화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현을 해본 경험이 있습니다.
 * UIKit
-  + UIViewController을 통해 UIKIT과 SwiftUI의 연결한 경험이 있습니다.
+  + UIViewController를 통해 UIKIT과 SwiftUI를 연결한 경험이 있습니다.
 * Swift
   + Swift의 기본 문법을 이해하고 사용합니다.
-* Git&Github
-  + 깃허브를 활용한 파일의 버전 관리와 다른 사람들과 협업의 경험이 있습니다.
+* Git&GitHub
+  + GitHub를 활용한 파일의 버전 관리와 다른 사람들과 협업의 경험이 있습니다.
