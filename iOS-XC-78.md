@@ -8,11 +8,11 @@
 
 연락처: 010-1234-5678
 
-이메일: ahrihan@gmail.com
+이메일: abcdefg@gmail.com
 
 주소: 경기도 
 
-GitHub: [https://github.com/ariirang](https://github.com/ariirang)
+GitHub: [https://github.com/ariirang](https://github.com/0000)
 
 ---
 
