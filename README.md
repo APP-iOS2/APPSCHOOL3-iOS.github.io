@@ -37,4 +37,4 @@ project01-team01 부터 project01-team12까지 회고조별로 부여되는 저�
 - 현재 이곳 GitHub 저장소에 안내된 규칙에 따라 markdown 이력서 내용 commit, push, merge
 - 해당 저장소에 올린 내용을 GitHub Pages를 통해 웹브라우저로 확인
 - 회고조원들의 이름이 나오고, 이름마다 있는 “웹으로보기”를 선택하면 SafariViewController 또는 WKWebView로 위 웹페이지 이력서 확인하는 앱 개발
-- 추가로 이름마다 있는 “앱으로 보기”를 선택하면 위 저장소의 내용에 URLSession으로 접근해 markdown을 받아오거나 앱에 번들로 markdown 이력서를 담아 SwiftUI의 Text 기능으로 Native한 이력서 보여주기 기능도 개발
+- 추가로 이름마다 있는 “앱으로 보기”를 선택하면 위 저장소의 내용에 URLSession으로 접근해 markdown을 받아오거나 앱에 번들로 markdown 이력서를 담아 SwiftUI의 Text 기능으로 Native한 이력서 보여주기 기능도 개발. 하드코딩으로 유민영 강사님 강의처럼 SwiftUI의 Text를 써서 개발해셔도 무방합니다.
