@@ -10,6 +10,7 @@
   </li>
   <li>
     이메일 : rofxnaos@gmail.com
+    번호 : 010-0000-0000
   </li>
 </ul>
 
