@@ -8,33 +8,20 @@
 
 # 👩🏻‍💻 Profile
 
-  
+<!-- 너비만 지정 -->
+<img src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/62610032/bf928d18-03d3-4dff-87e7-7265c56ddd3d" alt="profile" width="200">
 
-![Profile.png](%E2%80%98%E1%84%91%E1%85%A7%E1%86%AB%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E2%80%98%20e21987b7d2e446a6979d6e6dd7aebf8b/SODA1661789464-modified.png)
 
-  
 
 ### 📞 Contact
 
   
 
-****Name****:
-
-  
-
-마경미(Ma Kyoungmi)
-
-  
+****Name****:마경미(Ma Kyoungmi)
 
 ****E-mail****: 1mmgm.dev@gmail.com
 
-  
-
-****Phone****:
-
-  
-
-010-4569-8403
+****Phone****: 010-4569-8403
 
   
 
@@ -44,17 +31,9 @@
 
 ****Github****: [https://github.com/akrudal](https://github.com/akrudal)
 
-  
-
 ****Blog****: [https://1mmgm.notion.site/](https://1mmgm.notion.site/)
 
-  
-
-****Instagram****:
-
-  
-
-[https://www.instagram.com/1mmgm/](https://www.instagram.com/1mmgm/)
+****Instagram****: [https://www.instagram.com/1mmgm/](https://www.instagram.com/1mmgm/)
 
   
 
@@ -98,8 +77,7 @@
 | --- | --- | --- | --- | --- |
 | 1 | 군산중앙여자고등학교 (전북) |    | 2016.03~2019.02 | 졸업 |
 | 2 | 서울과학기술대학교 (서울) | 컴퓨터공학과 | 2019.03~2024.02 | 졸업 예정 |
-| 3 | Ingolstadt technische hochschule (독일) | 컴퓨터공학과
-(교환학생) | 2022.09~2023.02 | 수료 |
+| 3 | Ingolstadt technische hochschule (독일) | 컴퓨터공학과(교환학생) | 2022.09~2023.02 | 수료 |
 | 4 | Techit 앱스쿨 (온라인) | iOS 2기 | 2023.05~2023.10 | 수료 예정 |
 
   
@@ -110,12 +88,10 @@
 
 # 🛠️ Skill & Stack
 
-  
-
-### Language
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrudal&bg_color=FC9CA4&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&card_width=500&layout=compact)
 
+![Screenshot 2023-08-10 at 14 31 06](https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/62610032/d3f0965d-8bea-4765-ad3b-1429403523f0)
 
 
   
