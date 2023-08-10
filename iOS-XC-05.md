@@ -8,7 +8,7 @@
 - 휴대폰: 010-xxxx-xxxx
 - E-mail: sikim4991@gmail.com
 - 주소: 대전광역시 XX구 XX동
-- 포트폴리오: https://www.github.com/sikim4991
+- 포트폴리오: [포트폴리오](https://www.github.com/sikim4991)
 
 
 ---
