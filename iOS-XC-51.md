@@ -13,7 +13,6 @@
 - 사용 언어/기술: SwiftUI
 - 구현한 기능
 
-    <div style="text-align: left;"> 
 ## 🎓 Experience 
 - Tech!t LikeLion iOS App School 2기(2023.5 ~ 2023.10) 
 
