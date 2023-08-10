@@ -23,7 +23,7 @@
 ||중국내 사정으로 Sample제작 이후 단계 중단.
 
 
-|연구원                |Dual Linear Polarization Waveguide Antenna      
+|연구원               |Dual Linear Polarization Waveguide Antenna      
 |----------------|--------------------------------------|
 | 2014. 11 ~ 2016. 03|Selfsat 안테나에 대항하는 Dual Linear Polarization Waveguide Antenna 프로젝트 연구원으로 참여.              |
 |          |초기 설계부터 진행하여 각 소자 부터 전체 Specification까지 기획..                       
