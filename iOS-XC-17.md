@@ -1,163 +1,100 @@
-﻿# ‘편리함을 추구하는 개발자‘
+# iOS App Developer
 
-  
+### Profile
 
-### Ma Kyoungmi
+**Name : 남형식**
 
-  
+**Email : skagudtlr731@gmail.com**
 
-# 👩🏻‍💻 Profile
+**Phone : 010-0000-0000**
 
-<!-- 너비만 지정 -->
-<img src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/62610032/bf928d18-03d3-4dff-87e7-7265c56ddd3d" alt="profile" width="200">
+**Education : 
+서울시립대학교 전자전기컴퓨터공학부 학사**
 
-
-
-### 📞 Contact
-
-  
-
-****Name****:마경미(Ma Kyoungmi)
-
-****E-mail****: 1mmgm.dev@gmail.com
-
-****Phone****: 010-4569-8403
-
-  
-
-### 📬 Channel
-
-  
-
-****Github****: [https://github.com/akrudal](https://github.com/akrudal)
-
-****Blog****: [https://1mmgm.notion.site/](https://1mmgm.notion.site/)
-
-****Instagram****: [https://www.instagram.com/1mmgm/](https://www.instagram.com/1mmgm/)
-
-  
+## Skills
 
 ---
 
-  
+- Proficient : `**Swift**` `**C/C++`**
+- Basic : `**SwiftUI**` `**RxSwift` `Docker` `Git` `Firebase` `Rust`**
 
-# 🙌🏻 Introduce
-
-  
-
-안녕하세요. iOS 개발자 마경미입니다.
-
-  
-
-****2021년****에 React 프레임워크를 통해 웹 프론트엔드 개발을 시작한 후, 코드를 구현하는 것보다 라이브러리를 활용하는 과정에서의 코드 양의 증가에 대해 깊게 고민하게 되었습니다. 이런 경험을 통해 다른 사람들의 속도를 따라가는 것보다는 제 개인적인 시간과 노력을 투자하여 문제를 해결하기로 결심하게 되었습니다.
-
-  
-
-이러한 결심을 바탕으로, 다양한 개발 분야에 도전하며 새로운 경험을 쌓아왔습니다. ****2021년 후반기****에는 Node.js를 배우기 시작하고, 대학교 교육 과정을 통해 머신러닝을 탐구하였습니다. 그러나 백엔드와 인공지능 분야보다는 사용자 경험을 중요시하고 클라이언트 측에서 피드백을 받아가는 과정을 더욱 즐거움으로 느꼈습니다.
-
-  
-
-이런 경험을 바탕으로, ****2022년****에는 iOS 앱 개발 분야로 진출하게 되었습니다. iOS 개발은 끊임없이 발전하는 Apple의 업데이트와 함께 성장하며, 사용자 중심의 디자인과 기능 개발에 집중할 수 있는 아름다운 환경입니다.
-
-  
-
-앞으로도 꾸준한 학습과 도전을 통해 사용자 경험을 향상시키며,  가독성이 높고 확장성을 고려한 코드를 통해 ****개발자들도 보다 편리하게**** 할 수 있도록 노력하겠습니다. 감사합니다.
-
-  
+## Programming Education
 
 ---
 
-  
+### 앱스쿨 iOS 3기
 
-# 👩🏻‍🎓 Education
+멋쟁이 사자처럼 : 2023.05 ~ 2023.11
 
-  
+- Swift 기초부터 UIKit, SwiftUI를 활용하는 프로젝트
+- HIG 기반 UI/UX 학습
+- 팀프로젝트를 통한 협업능력 향상과 커뮤니티 형성
 
-|  | School | Department | Period | Status |
-| --- | --- | --- | --- | --- |
-| 1 | 군산중앙여자고등학교 (전북) |    | 2016.03~2019.02 | 졸업 |
-| 2 | 서울과학기술대학교 (서울) | 컴퓨터공학과 | 2019.03~2024.02 | 졸업 예정 |
-| 3 | Ingolstadt technische hochschule (독일) | 컴퓨터공학과(교환학생) | 2022.09~2023.02 | 수료 |
-| 4 | Techit 앱스쿨 (온라인) | iOS 2기 | 2023.05~2023.10 | 수료 예정 |
+### 42Seoul
 
-  
+재단법인 이노베이션 아카데미 : 2020.12.21 ~ 2022.10.08 
 
----
+- linux부터 C/C++기반 프로젝트
+- 네트워크와 OS, 자료구조와 알고리즘의 기본적인 부분을 학습
+- 동료학습과 개인과제 뿐만 아닌 팀프로젝트를 통한 협업능력 향상
 
-  
+### **30개 프로젝트로 배우는 iOS 앱 개발 with Swift 초격차 패키지 Online.**
 
-# 🛠️ Skill & Stack
+Fast campus : 2022.04 ~ 2022.08
 
+- Swift 기초 문법
+- AutoLayout, StoryBoard를 이용한 앱 구현
+- Firebase Auth, Firestore 등을 사용한 앱 구현
+- OpenAPI 사용 & 적용 방법 터득
+- MVC, SwiftUI + Combine + MVVM, RxSwift + MVVM, MVP와 같은 아키택쳐로 앱 구현
+- XCTest를 이용한 테스트 코드 작성 방법
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akrudal&bg_color=FC9CA4&text_color=FFFFFF&icon_color=FFFFFF&title_color=FFFFFF&card_width=500&layout=compact)
-
-![Screenshot 2023-08-10 at 14 31 06](https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/62610032/d3f0965d-8bea-4765-ad3b-1429403523f0)
-
-
-  
-
-  
-
+## Project
 
 ---
 
-  
+### IRC 프로그램 - 약 1개월
 
-# 🕹️ Club & Activity
+- **팀원**
+    - 42Seoul 동료 포함 총 3명
+- **Description**
+    - C++기반 소켓 프로그래밍
+    - LimeChat을 기준으로 TCP, I/O Multiplexing 학습
+- **Role**
+    - 소켓 함수, Multiplexing 관련 함수 학습 후 팀원에게 설명
+    - Server class 구현
 
-  
+### Inception - 약 2개월
 
-|  | Club & Activity Name | Department | Period | Role |
-| --- | --- | --- | --- | --- |
-| 1 | EndlessCreation | 교내 컴퓨터동아리 | 2019.03~2019.02 | 부원 |
-| 2 | EndlessCreation | 교내 컴퓨터동아리 | 2020.03~2022.02 | 임원진 |
-| 3 | 너나들이 | 정보통신대학 단과대 학생회 | 2019.03~ 2019.12 | 국원 |
-| 4 | 블루밍 | 정보통신대학 단과대 학생회 | 2020.03~2020.12 | 국장 |
+- **개인프로젝트**
+- **Description**
+    - Docker와 Docker Compose 이해
+    - Virtual Machine에 Docker-compose를 이용하여 서비스 자동화
+    - MariaDB → Wordpress → Nginx 순으로 Dockerfile, yaml 파일 구성
 
-  
+### Data-Centric University 4.0 공모전 - 약 2개월
+
+- **팀원**
+    - Full stack 개발자 2명, 빅데이터 & 통계관련 팀장 1명
+- **Description**
+    - 빅데이터를 이용해 평소 캠퍼스에 필요하다고 생각한 서비스를 제안하는 아이디어 공모전
+    - 대학생을 위한 통합학습 플랫폼을 주제로 결정
+- **Role**
+    - Java Spring, SpringBoot, TymeLeaf, BootStrap 을 이용해 회원가입과 MyPage 구현
+    - Wordpress로 위의 과정을 재구축
+
+## Channel
 
 ---
 
-  
+**Github**
 
-# 📌 Project
+[https://github.com/NamHyeongSik](https://github.com/NamHyeongSik)
 
-  
+**Notion - iOS**
 
-[Web Project](%E2%80%98%E1%84%91%E1%85%A7%E1%86%AB%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E2%80%98%20e21987b7d2e446a6979d6e6dd7aebf8b/Web%20Project%204d40661ec7c74a0689a034a676a62453.csv)
+[https://robust-celery-41a.notion.site/IOS-560ae0a8a9e74a148eca18f9eab5a385](https://www.notion.so/IOS-560ae0a8a9e74a148eca18f9eab5a385?pvs=21)
 
-  
+**Notion - 알고리즘**
 
-###
-
-  
-
-[iOS Project](%E2%80%98%E1%84%91%E1%85%A7%E1%86%AB%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF%20%E1%84%8E%E1%85%AE%E1%84%80%E1%85%AE%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB%20%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1%E2%80%98%20e21987b7d2e446a6979d6e6dd7aebf8b/iOS%20Project%206012d2cf1688486eafa0c983a37b27f6.csv)
-
-  
-
-  
-
-# 👩🏻‍💻 Work Experience
-
-  
-
-
-
-  
-
-# 🏆 Awards & Language
-
-  
-
-### Award
-
-- Endless Creation(교내 동아리) [2019 EC: advance] 동상
-
-- 2021 한이음 공모전 입선
-
-  
-
-### Language
-
-- 영어 어학점수 : TOEIC 885점
+[https://robust-celery-41a.notion.site/programmers-14918d4e22f5426c8b80614ba11bf34b](https://www.notion.so/programmers-14918d4e22f5426c8b80614ba11bf34b?pvs=21)
