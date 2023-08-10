@@ -1,10 +1,13 @@
 # 앱스쿨 iOS 2기 프로젝트1 markdown 이력서 자료
 
 이력서 예시는 다음과 같습니다. [iOS-XC-00.md](./iOS-XC-00.md)
+
 웹브라우저와 앱에서 접근할 경우 다음의 URL를 사용하실 수 있습니다. [https://appschool3-ios.github.io/iOS-XC-00.html](https://appschool3-ios.github.io/iOS-XC-00.html)
+
 위와같이 md 확장자로 파일을 올리면 html 확장자로 끝나는 경로로 웹 접근이 가능합니다.
 
 이 웹이트에 개인별로 부여된 식별 Code에 따라 iOS-XC-(번호).md 파일을 만들어 이곳에 추가해주세요.
+
 웹브라우저와 앱에서 접근할 경우 필요한 URL은 위 예시를 참고해주세요.
 
 GitHub Pages 웹사이트의 main 브랜치 배포적용은 시간당 한계가 정해져있기 때문에, markdown 파일을 push하는 작업은 신중하게 최소 횟수로 진행해주시길 부탁드립니다.
@@ -12,6 +15,7 @@ GitHub Pages 웹사이트의 main 브랜치 배포적용은 시간당 한계가 
 ## 프로젝트 안내
 
 project01-team01 부터 project01-team12까지 회고조별로 부여되는 저장소를 활용해주세요
+
 - https://github.com/APPSCHOOL3-iOS/project01-team01
 - https://github.com/APPSCHOOL3-iOS/project01-team02
 - https://github.com/APPSCHOOL3-iOS/project01-team03
@@ -26,6 +30,7 @@ project01-team01 부터 project01-team12까지 회고조별로 부여되는 저�
 - https://github.com/APPSCHOOL3-iOS/project01-team12
 
 프로젝트 저장소는 2023년 8월 10일 오후 6시정각부터 아카이브 처리되어 잠길 예정입니다.
+
 아카이브 처리 이후에는 신규 코드의 commit, push, merge가 이루어지지 않습니다.
 
 다음의 지정된 요구사항에 맞추어 프로젝트1을 진행해주세요. 
