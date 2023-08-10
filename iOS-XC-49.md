@@ -2,6 +2,8 @@
 
 ---
 
+![KakaoTalk_Photo_2023-08-10-15-35-17](https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/133959724/9ef24014-9488-4d90-a515-7e9b5497b812)
+
 <h1> 안녕하세요. iOS개발자 윤경환 입니다.</h1>
 
 <h3>Contact</h3> 
