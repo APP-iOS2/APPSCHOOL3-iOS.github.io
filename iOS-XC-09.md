@@ -30,7 +30,7 @@ GitHub. [https://github.com/yoonwoo4429](https://github.com/yoonwoo4429)
 
 **Project Maneger & Front Lead**
 
-**2023.03 ~**
+**2023.03**
 
 - 일정 조율과 정확한 상황 파악으로 프로젝트 완료 기일 3일
 - 사용자의 사용성과 효율성을 높인 UX/UI 디자인
