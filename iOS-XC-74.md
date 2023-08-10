@@ -38,7 +38,7 @@ GitHub. https://github.com/da-hye0
 
 ---
 
-# Experience
+# Experience.
 
 - 캡스톤디자인 장려상 수상 [인공지능 선풍기 (Android Studio 리모컨 앱 개발) ]
 - 4회 OIDC 오픈 인프라 개발 경진대회 본선 진출 [통합 클라우드 (React 프론트엔드) ]
