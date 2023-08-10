@@ -51,6 +51,62 @@
 </div>
 
 
+# 이력서
+
+![image.jpeg](%E1%84%8B%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8%E1%84%89%E1%85%A5%2085e2fda641794b3a96758d1b06571868/image.jpeg)
+
+안녕하세요. 소통의 왕이 되고싶은 iOS 주주주주주주니어 개발자 김종찬 입니다.
+
+## Contact
+
+- 김종찬
+- Email. jongchan7298@gmail.com, naver.com
+- Phone. 010-XXXX-XXXX
+
+## Channel
+
+- 깃허브 : github.com/JCxxn
+
+---
+
+## Introduce
+
+iOS 개발자를 목표로 하여 많은 것들을 시도해보고 해결하기 위해 고민과 노력을 하는 중 입니다.
+
+많은 사람들과 어울리고 대화하고 활동하는 것을 좋아하기 때문에 그것을 바탕으로 좋은 개발자를 넘어서 신뢰가는 리더로도 성장해보고 싶습니다.
+
+---
+
+## Education
+
+멋쟁이 사자처럼 iOS 앱스쿨 2기
+
+2023.05 ~ 2023.10
+
+세종대학교 컴퓨터공학과
+
+2020.03 ~ 2023.02
+
+---
+
+## Project
+
+- GetImage (2022): 선박 및 해양 플랜트 부품 불량 검사 앱 개발(출시는 안함).
+    - 사용 언어/기술: Java, Android Studio, PyTorch
+
+---
+
+## Skill
+
+- C, C++
+- Java
+- Swift
+- SwiftUI
+- UIKit
+- Android
+- Git&Github
+- Notion
+- Figna
 
 
 
