@@ -4,7 +4,7 @@
 
 #### ✉️ 　<a href="sonyoonho0508@gmail.com" style="color:darkgray; font-weight: bold" >sonyoonho0508@gmail.com</a>
 
-#### <img src="https://hackmd.io/_uploads/S1hULUZ33.png" width="20" height="20">　<a href="https://github.com/SonYoonho" style="color:darkgray; font-weight: bold" >https://github.com/SonYoonho</a>
+### <i class="fa-brands fa-github"></i> <a href="https://github.com/SonYoonho" style="color:darkgray; font-weight: bold" >https://github.com/SonYoonho</a>
 
 #### 📞 　<span style="color:darkgray; font-weight: bold">010-6543-XXXX</span>
 
