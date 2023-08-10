@@ -62,7 +62,7 @@
   <p>Swift의 기본 문법을 이해하고 사용합니다</p>
   <li>Git&Github</li>
   <p>깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.</p>
-  <li>notion&lack</li>
+  <li>notion</li>
   <p>협업 툴을 활용하여 의사소통 가능합니다.</p>
 </ul>
 
