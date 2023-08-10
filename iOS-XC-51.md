@@ -29,7 +29,5 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🔍 Where to find me </h2> 
     <div style="text-align: left;"> <a href=> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link="> </a>
          <a href=mailto:cuke709@gamil.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:cuke709@gamil.com"> </a><a href=><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
-          </div>  <br> 
-    <div style="text-align: left;">   </div> 
-      </div>
+          </div> 
       
