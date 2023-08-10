@@ -1,7 +1,8 @@
 
 <h1> iOS 개발자 이승준 이력서</h1>
 
-<img src="">
+<img src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/73987824/4b2d2b89-ee8b-4a7d-9b4b-5988e34ffa82">
+
 
 <h5>안녕하세요!   iOS 개발자 이승준입니다.</h5>
 
