@@ -19,6 +19,7 @@ GitHub: https://github.com/ffv1104
 - CS전공이 아니지만 IT계열 회사에 근무하며 컴퓨터 계열의 많은 학습을 했습니다.
 - 2021년 팀원 및 타부서 평가로 우수사원을 수상하였습니다.
 - 코드를 작성 할 때 해당 코드의 목표와 의미를 이해하려 노력합니다.
+
 ----------------
 ## <span style="color: orange">Work Experience</span>
 
@@ -31,12 +32,14 @@ GitHub: https://github.com/ffv1104
 - 프로젝트 PM으로 엔지니어-개발-고객 3자간 협업 주도 경험
 - Server(Linux, Windows, AIX), DB(Oracle, PostgreSQL)기반 소프트웨어로 구축 및 유지보수를 통해 장애대응 능력 향상
 - 2021년 우수사원 수상
+
 ----------------
 ## <span style="color: orange">Skill</span>
 - Swift: UIKit, SwiftUI
 - Git&Github
 - Back-END: Firebase
 - Database: PostgeSQL, Oracle
+
 ----------------
 ## <span style="color: orange">Education</span>
 - 2023.05-현재     Techit iOS앱스쿨2기
