@@ -2,8 +2,6 @@
 
 ## CONTACT & CHANNEL
 
----
-
 `phone` 010-0000-3750
 
 `e-mail` arrra_sun25@kakao.com
@@ -12,7 +10,6 @@
 
 
 ## INTRODUCE
----
 
 다양한 개발 경험을 통해 체계화된 UI와 더 나은 사용자 경험을 고민하는 앱 개발자를 희망하게 되었습니다. 
 
@@ -20,7 +17,6 @@
 
 
 ## EXPERIENCES
----
 
 ### **앱스쿨 iOS 2기**
 23.05 - 23.10
@@ -57,7 +53,6 @@
 
 
 ## PROJECTS
----
 
 ### CommonPlant
 함께 키우는 식물을 공유하고 기록하는 식집사 앱 `23.07 - 진행중` iOS developer
@@ -96,12 +91,10 @@
 
 
 ## SKILLS
----
 
 **Backend**
 
 `Java` `SpringBoot-JDBC` `mySQL` `AWS` 
-
 
 
 **Frontend**
@@ -119,14 +112,12 @@
 
 ## EDUCATIONS
 
----
 `20.03 - 23.08` 광운대학교 소프트웨어학부 부전공
 `18.03 - 23.08` 광운대학교 전자공학과 주전공
 
 
 ## AWARDS
 
----
 `2022` **UMC 2기 데모데이 장려상**
    설문ZIP
 
