@@ -1,12 +1,12 @@
 
 # 이제현 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=iOS%20Dev&fontSize=90)
-## Contact && **Channel**												
+
+## Contact && Channel										
 **Email.**
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dasom8899981@gmail.com)](mailto:dasom8899981@gmail.com)	
+dasom8899981@gmail.com
  **Git.** 
- [<img  src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/LJH3904)	
+https://github.com/LJH3904
 **Phone.**
  010-9486-3904
 **Blog.** 
