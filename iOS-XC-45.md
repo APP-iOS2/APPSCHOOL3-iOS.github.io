@@ -4,7 +4,6 @@
 <br>
 
 ## 인적사항
----
 <br>
 
 <img src="https://avatars.githubusercontent.com/u/82360640?v=4" alt="profile" width="150" height="150">
@@ -19,7 +18,6 @@
 <br>
 
 ## 소개
----
 <br>
 배움에 대한 욕구가 강해 끊임없이 성장하는 개발자입니다.
 <br>
@@ -30,7 +28,6 @@
 <br>
 
 ##  학력
----
 <br>
 [ 2016.03 - 2023.02 ] 컴퓨터공학과 졸업
 
@@ -38,7 +35,6 @@
 <br>
 
 ##  경력사항
----
 <br>
 [ 2023.05 - 2023.10 ] 멋쟁이사자처럼 iOS 앱 스쿨 2기 수료
 
@@ -46,7 +42,6 @@
 <br>
 
 ## 프로젝트
----
 <br>
 
 [ 2021.03 - 2021.06 ] [캡스톤디자인 앱 프로젝트 WDIT](https://github.com/Youngs5/ProjectWdit)
@@ -66,7 +61,6 @@ dart 언어 기반의 앱 framework인 Flutter와 Firebase를 활용하여 제�
 <br>
 
 ## 개인 페이지     
----
 <br>
 
 ****Github****: [https://github.com/Youngs5](https://github.com/Youngs5)
