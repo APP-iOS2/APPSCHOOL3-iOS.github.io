@@ -1,5 +1,6 @@
 # 이력서
 
+
 ### Contact.
 
 Email. muumuu.j37@gmail.com
@@ -10,9 +11,9 @@ Phone. **010-7728-4373**
 
 GitHub. [https://github.com/yoonjiho37](https://github.com/yoonjiho37)
 
----
 
 # Introduce.
+
 
 ### 이렇게 개발자가 되었습니다.
 
@@ -32,6 +33,7 @@ GitHub. [https://github.com/yoonjiho37](https://github.com/yoonjiho37)
 
 # Experience.
 
+
 ## Presentation.
 
 - 부스트코스 iOS 과정 중 개인적으로 리펙토링
@@ -42,6 +44,7 @@ GitHub. [https://github.com/yoonjiho37](https://github.com/yoonjiho37)
 ---
 
 # Skill.
+
 
 - Frontend: Swift
     - UIKit / SnapKit
@@ -57,6 +60,7 @@ GitHub. [https://github.com/yoonjiho37](https://github.com/yoonjiho37)
 ---
 
 # Education.
+
 
 - 2018.03-2020.02 서영대학교 호텔관광과
 - 2020.03-2022.02 백석예술대학교 실용음악과

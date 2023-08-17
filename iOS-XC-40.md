@@ -56,16 +56,9 @@
 - 2023.05-현재     Techit iOS앱스쿨2기
 - 2017.03-2022.02 OO대학교 컴퓨터공학과
 
-  <li>
-    amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
-  </li>
-</ul>
 <h2>Certificate</h2> 
 <ul>
   <li>
    정보처리기사 (2022)
-  </li>
-    <li>
-   정보기기운용기능사 (2015)
   </li>
 </ul>

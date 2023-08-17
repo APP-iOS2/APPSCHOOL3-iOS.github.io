@@ -1,6 +1,6 @@
 # iOS Developer
 스타트업에서 React Native 앱 개발 경험을 시작으로, Oracle 데이터베이스 관리를 경험했습니다.
-    ~~~~~
+
 ## Profile
 • 성명: 김효석  
 • 이메일: hskim8422@gamil.com  

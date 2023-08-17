@@ -12,7 +12,7 @@
 위성안테나 제조 및 연구
 
 
-|연구원                |Dual Circular Polarization Waveguide Antenna      
+|연구원               |Dual Circular Polarization Waveguide Antenna      
 |----------------|--------------------------------------|
 | 2012. 02 ~ 2014. 11|연구소내 진행중인 Dual Circular Waveguide Antenna 프로젝트에 참여하여 초기에는 Antenna내 Device 설계 및 해석 하여 Horn에서 Directivity Gain 대비 Realized Gain 의 효율을 94%까지 끌어올림.                    |
 |          |T-Junction의 Return Loss를 -25dB까지 낮춤.                       
@@ -23,7 +23,7 @@
 ||중국내 사정으로 Sample제작 이후 단계 중단.
 
 
-|연구원                |Dual Linear Polarization Waveguide Antenna      
+|연구원               |Dual Linear Polarization Waveguide Antenna      
 |----------------|--------------------------------------|
 | 2014. 11 ~ 2016. 03|Selfsat 안테나에 대항하는 Dual Linear Polarization Waveguide Antenna 프로젝트 연구원으로 참여.              |
 |          |초기 설계부터 진행하여 각 소자 부터 전체 Specification까지 기획..                       
