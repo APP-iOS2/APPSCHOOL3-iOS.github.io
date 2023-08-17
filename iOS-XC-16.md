@@ -10,7 +10,7 @@
 - Phone : 010-9101-0387
 
 ### Channel.
-- vlog : https://velog.io/@nhyeonjeong
+- vlog : https://velog.io/
 - GitHub : https://github.com/nhyeonjeong
 
 
