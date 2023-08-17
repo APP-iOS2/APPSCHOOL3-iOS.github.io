@@ -3,12 +3,12 @@
 
 <img src="https://github.com/APPSCHOOL3-iOS/APPSCHOOL3-iOS.github.io/assets/51072429/7590f8ca-cf7b-4ea6-83e4-5d170e5da41b" width="200" height="200"/>
 
-### ***iOS 개발자 노유리 입니다. @@@하고 $$하는 ****한 ###를 추구합니다.***
+### ***iOS 개발자 노유리 입니다.***
 
 [yforyurirho@gmail.com](mailto:yforyurirho@gmail.com) | [Github](https://github.com/yforyuri)
 
 <aside>
-🌟 이런이런 특성 성향 나를 잘 나타낼 수 어쩌고 저쩌고Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+🌟 이런이런 특성 성향 나를 잘 나타낼 수 있는....
 
 </aside>
 
@@ -18,32 +18,32 @@
 
 **2023.10**
 
-- **abcdefghijk iOS App 개발**
+- **보글보글 iOS App 개발**
     
-    간략한 소개 어쩌고저쩌고아아아아아아아아아아아아아아아ㅏ아아아앙
+    간략한 소개 
     
     - 맡은 역할 구체적으로
-    - 어떠한 기능을 어떻게 블라블라
+    - 어떠한 기능을 어떻게 
     - 어떠한 기여를 했는지
 
 **2023.09**
 
-- **ggdfdkfdklspps iOS App 개발**
+- **보글보글 iOS App 개발**
     
-    간략한 소개 어쩌고저쩌고아아아아아아아아아아아아아아아ㅏ아아아앙
+    간략한 소개 
     
     - 맡은 역할 구체적으로
-    - 어떠한 기능을 어떻게 블라블라
+    - 어떠한 기능을 어떻게 
     - 어떠한 기여를 했는지
 
 **2022.01**
 
-- **sdsdadasdasdqwd iOS App 개발**
+- **보글보글 iOS App 개발**
     
-    간략한 소개 어쩌고저쩌고아아아아아아아아아아아아아아아ㅏ아아아앙
+    간략한 소개 
     
     - 맡은 역할 구체적으로
-    - 어떠한 기능을 어떻게 블라블라
+    - 어떠한 기능을 어떻게 
     - 어떠한 기여를 했는지
 
 ### *Work Experience*
@@ -66,11 +66,6 @@
     
     - 이런 이런
     - 저런 저런
-
-**2017.02 ~ 2018.10**
-
-**어디어디**- 관련직무도 아니고 예전 경험은 굳이 토글로 만들지 않아도 될 듯
-
 
 ### ***Skills***
 
@@ -119,7 +114,5 @@
 ---
 
 ~
-
-대학교 학과 졸업
 
 
