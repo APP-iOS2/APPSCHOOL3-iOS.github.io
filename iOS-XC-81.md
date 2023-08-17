@@ -39,15 +39,17 @@
 <p>swift문법 및 SWIFTUI를 배우고 익히며 수료 마지막에는 좋은 동료들과 멋진앱을 배포할 수 있었습니다. </p>
 
 <h5>AA 대학교 기계공학과 졸업</h5>
+<p>2017.03 ~ 2022.02</p>
+
 <h5>인프런 - Allen swift 문법 수강</h5>
 
 <h2>Project</h2> 
 <ul>
   <li>
-    Fantastic App** (2023): 앱 개발. 사용 언어/기술: SwiftUI, Firebase
+    healthier를 위한 구매(2023): 앱 개발. 사용 언어/기술: UIKit, Pages
   </li>
-  <li>
-    amaizing App** (2023): 앱 개발. 사용 언어/기술: UIKit, Firebase
+    <li>
+    단체 운동 예약 앱(2023): 앱 개발. 사용 언어/기술: SwiftUI, Pages
   </li>
 </ul>
 
@@ -55,8 +57,7 @@
 <h2>Skill</h2> 
 <ul>
   <li>SwiftUI</li>
-  <p>화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. 
- </p>
+  <p>화면 구현 뿐만 아니라 데이터 통신을 통한 앱 구현이 가능하며, 배포 한 경험이 있습니다. </p>
   <li>UIKit</li>
   <p>스토리보드, 코드를 통해 개발 가능합니다.</p>
   <li>Swift</li>
@@ -64,10 +65,10 @@
   <li>MVC/MVVM</li>
   <p>MVC, MVVM 패턴을 활용하여 앱을 만들어본 경험이 있습니다.</p>
   <li>Framework And Library</li>
-  <p>다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다.<br>Combine, NaverMap, FireBase, Firestore, CoreData, Kingfisher 등 활용해본 경험이 있습니다.</p>
+  <p>다양한 프레임워크와 라이브러리를 이해하고 활용 할 수 있습니다.<br>Combine, FireBase, Firestore, CoreData 등 활용해본 경험이 있습니다.</p>
   <li>Git&Github</li>
   <p>깃허브를 활용한 앱 버전 관리와 다른사람들과 협업한 경험이 있습니다.</p>
-  <li>notion&lack</li>
+  <li>notion&slack</li>
   <p>협업 툴을 활용하여 의사소통 가능합니다.</p>
 </ul>
 
@@ -75,6 +76,6 @@
 <h2>기타 수상 내역</h2> 
 <ul>
   <li>
-    스마트 워치 심박수 성능 측정 시스템 관련 특허 제출 - 공개단계
+    스마트 워치 심박수 성능 측정 시스템 관련 특허 - 공개단계
   </li>
 </ul>
