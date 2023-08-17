@@ -118,5 +118,5 @@ iOS, 안드로이드와 Flutter 등 모바일 앱 개발을 중심으로 공부�
 
 
 # 👋 Contact
-✉️ [freegymewr@gmail.com](mailto:freegymewr@gmail.com)
-📱 010-2581-5658
+- ✉️ [freegymewr@gmail.com](mailto:freegymewr@gmail.com)<br>
+- 📱 010-2581-5658
