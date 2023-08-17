@@ -1,5 +1,4 @@
-![스크린샷 2023-08-10 오전 10 41 13](https://github.com/APPSCHOOL3-iOS/project01-team06/assets/65907001/23fb8fc1-1ffe-4df5-99b6-05382d96a2b3)
-
+<img scr = "https://github-production-user-asset-6210df.s3.amazonaws.com/65907001/259592589-23fb8fc1-1ffe-4df5-99b6-05382d96a2b3.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230817%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230817T011555Z&X-Amz-Expires=300&X-Amz-Signature=47cd617d684de79d64462b02963df66272caedd4b2d0cf4145710d046fba50d7&X-Amz-SignedHeaders=host&actor_id=65907001&key_id=0&repo_id=676759474" alt="" loading="lazy">
 
 <div align="center">
   <h2>I'm YUHAEUN, an iOS Junior Developer</h2>
