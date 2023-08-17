@@ -27,7 +27,7 @@
   > 연애와 프로젝트 카테고리별로 MBTI궁합을 알려주는 앱.
   > 기존의 다른 앱과는 다르게 한 번에 여러 명과의 궁합을 보여줄 수 있고, 특히 프로젝트궁합에서는 애니메이션 효과를 사용해 결과를 시각적으로 잘 보여줌.
   
-- 2022.03 - 2022.10  __Local Short's__  `Node.js` `HTML/CSS` `OraclaDB` `Amazon AWS`
+- 2022.03 - 2022.10  __Local Short's__  `Node.js` `HTML/CSS` `OracleDB` `Amazon AWS`
   > 학교내의 건물마다 영상을 업로드할 수 있고 GPS가 잘 잡히지 않는 교내에서는 주파수의 높낮이로 장소를 구분해 영상을 올릴 수 있는 앱.
   > - 주로 Node.js를 다루며 백앤드를 담당하였으며 DB로 영상을 분류
   > - 건물별로 홍보할 내용이 있을 경우 보다 빠르게 영상을 시청할 수 있도록 업로드 가능
@@ -37,7 +37,7 @@
 ## Skill.
 - Front-End : `Swift`, `Python`, `HTML/CSS`, `C`, `JavaScript`, `Java`
 - Back-End : `Node.js`, `Amazon AWS`
-- Database : `OraclaDB`, `MySQL`
+- Database : `OracleDB`, `MySQL`
 - 기타 : `figma`, `Notion`, `OpenCV`
 
 
