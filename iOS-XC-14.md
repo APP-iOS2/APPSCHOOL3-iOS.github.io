@@ -9,7 +9,7 @@
 ## Github
 • https://github.com/gytjr8422
 
-##  기술
+##  Skills
 언어  
 • Swift  
 • Python
@@ -28,7 +28,7 @@
 • SwiftUI, UIKit을 활용한 프로젝트  
 • HIG, UI/UX 학습
 
-### **프로젝트**
+### **Projects**
 **다양성 영화 박스오피스** (2023.03 - 2023.04)  
 • 개인 프로젝트  
 • 영화 박스오피스 순위 및 상세정보 제공 앱  
