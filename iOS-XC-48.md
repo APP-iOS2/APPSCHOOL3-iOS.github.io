@@ -55,7 +55,7 @@ B.S. in Information Security, Seoul Women's University (2016 - 2022)
 
 ---
 
-### Awards / Project
+## Awards / Project
 
 #### ML / DL
 
